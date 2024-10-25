@@ -1,3 +1,4 @@
+[![Hits](https://hits.sh/github.com/w3nabil/red-scripts.svg?style=plastic&label=Viewers&labelColor=000000)](https://hits.sh/github.com/w3nabil/red-scripts/)
 # Red Scripts
 Red Scripts contains several Python scripts that can be used to check vulnerabilities. 
 
