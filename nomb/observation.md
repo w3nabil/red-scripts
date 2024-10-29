@@ -1,8 +1,3 @@
-
-# NOMB
-
-NOMB is a mass mail tool developed using only the most basic knowledge of Python. It was part of my "Is Hacking All About Practice?" research project.  
-
 # Gmail Email Address and Spam Detection Observations
 
 ## 1. Use of the `+` String in Gmail Addresses
@@ -45,24 +40,3 @@ In conclusion, while subject line randomization may momentarily break Gmail's sp
 Relying on `+` string variations or altering subject lines may offer short-term evasion, but Gmail’s advanced filters will ultimately detect consistent spamming behavior. Both techniques should be used cautiously and responsibly during the testing phases.
 
 ---
-
-### Tested on:
-
-| Mail Provider | Result | Last checked |
-|---------------|--------|--------------|
-| GMAIL | ✅ | *Thu Oct 24 2024 19:00:00 GMT+0000* |
-| iCloud | ✅ | *Thu Oct 24 2024 19:00:00 GMT+0000* |
-| ProtonMail | ✅ | *Thu Oct 24 2024 19:00:00 GMT+0000* |
-| Yahoo | ❌ | *Thu Oct 24 2024 19:00:00 GMT+0000* |
-| Outlook | ✅ | *Thu Oct 24 2024 19:00:00 GMT+0000* |
-
-### Contributing
-
-Contributions are welcome! 
-
-To get started:
-- Fork the repository
-- Create a new branch for your feature or bug fix
-- Submit a pull request
-
-Feel free to reach out if you have any questions. Thank you for helping improve this project!
