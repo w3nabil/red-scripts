@@ -80,8 +80,7 @@ while True:
     if validemail(email=targetemail):
         print("Invalid Email Address, Try again!\n")
         continue # not valid, ask again
-    else:
-        break # valid, break the loop
+    break # valid, break the loop
 
 """****************************************************************
 *                     ATTACK RANGE INPUT                          *
@@ -103,8 +102,7 @@ while True:
         if attackrange_verify():
             print("Invalid Input, Please enter a number between 1 and 1000")
             continue
-        else:
-            break
+        break
     # if input is not a number, show error
     except ValueError:
         print("Input shouldn't be a string.")
