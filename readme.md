@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/w3nabil/red-scripts.svg?style=plastic&label=Viewers&labelColor=000000)](https://hits.sh/github.com/w3nabil/red-scripts/)
+[![Hits](https://hits.sh/github.com/w3nabil/red-scripts.svg?style=plastic&label=Viewers&labelColor=000000)](https://hits.sh/github.com/w3nabil/red-scripts/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 # Red Scripts
 Red Scripts contains several Python scripts that can be used to check vulnerabilities. 
 
