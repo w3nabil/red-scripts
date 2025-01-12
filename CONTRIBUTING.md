@@ -83,7 +83,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](ht
 
 ## Recognition
 
-We value all contributions! Contributors will be recognized in our release notes and on the [Contributors page](https://github.com/yourusername/red-scripts/graphs/contributors).
+We value all contributions! Contributors will be recognized in our release notes and on the [Contributors page](https://github.com/w3nabil/red-scripts/graphs/contributors).
 
 ---
 
