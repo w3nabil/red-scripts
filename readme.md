@@ -1,6 +1,38 @@
-[![Hits](https://hits.sh/github.com/w3nabil/red-scripts.svg?style=plastic&label=Viewers&labelColor=000000)](https://hits.sh/github.com/w3nabil/red-scripts/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-# Red Scripts
+
+
+```
+    ____  __________     _____ __________  ________  ___________
+   / __ \/ ____/ __ \   / ___// ____/ __ \/  _/ __ \/_  __/ ___/
+  / /_/ / __/ / / / /   \__ \/ /   / /_/ // // /_/ / / /  \__ \ 
+ / _, _/ /___/ /_/ /   ___/ / /___/ _, _// // ____/ / /  ___/ / 
+/_/ |_/_____/_____/   /____/\____/_/ |_/___/_/     /_/  /____/
+                                                                - Have Patience, Keep learning, and think creative
+                                                                               to manipulate any electronic device.
+                                                                  Enjoy Ethical Hacking..... 
+```
+
 Red Scripts contains several Python scripts that can be used to check vulnerabilities. 
+
+<div align="center">
+  <a href="https://hits.sh/github.com/w3nabil/red-scripts/">
+    <img src="https://hits.sh/github.com/w3nabil/red-scripts.svg?style=for-the-badge&label=Views" alt="Hits">
+  </a>
+</div>
+
+<br>
+
+<div display="flex" align="center">
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-3.12.x-green?style=for-the-badge&logo=python" alt="Python Version 3.12.x">
+  <img src="https://img.shields.io/codacy/grade/b38941dc42f046df8601495bdfbe9672?style=for-the-badge&logo=codacy&label=Codacy%20GRADE" alt="Codacy Grade">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/w3nabil/red-scripts?style=for-the-badge&logo=github&label=License" alt="License">
+  <br>
+  <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-raw/w3nabil/red-scripts?style=for-the-badge&logo=github" alt="Github Issues">
+  <img src="https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg?style=for-the-badge" alt="Contributor Covenant">
+  
+  
+</div>
+
 
 # ⚠️ Caution 
 
