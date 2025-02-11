@@ -6,9 +6,9 @@
   / /_/ / __/ / / / /   \__ \/ /   / /_/ // // /_/ / / /  \__ \ 
  / _, _/ /___/ /_/ /   ___/ / /___/ _, _// // ____/ / /  ___/ / 
 /_/ |_/_____/_____/   /____/\____/_/ |_/___/_/     /_/  /____/
-                                                                - Have Patience, Keep learning, and think creative
-                                                                               to manipulate any electronic device.
-                                                                  Enjoy Ethical Hacking..... 
+                                   - Have Patience, Keep learning, and think creative
+                                                  to manipulate any electronic device.
+                                     Enjoy Ethical Hacking..... 
 ```
 
 Red Scripts contains several Python scripts that can be used to check vulnerabilities. 
