@@ -14,7 +14,7 @@ Make sure you have **Python 3.11.x** installed (built-in libraries like socket, 
 ```bash
 mkdir port-scanner
 cd port-scanner
-curl.exe -L -o config.py https://raw.githubusercontent.com/w3nabil/red-scripts/main/port/basic.py
+curl.exe -L -o basic.py https://raw.githubusercontent.com/w3nabil/red-scripts/main/port/basic.py
 ```
 
 ## 🛠 Usage
